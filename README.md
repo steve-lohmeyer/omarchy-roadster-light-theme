@@ -1,4 +1,4 @@
-# Omarchy Roadster Theme
+# Omarchy Roadster Light Theme
 
 Omarchy theme celebrating the new Tesla Roadster — aerospace-inspired, light, and precise.
 
@@ -20,7 +20,7 @@ Omarchy theme celebrating the new Tesla Roadster — aerospace-inspired, light, 
 ## Installation
 
 ```bash
-omarchy theme install https://github.com/steve-lohmeyer/omarchy-roadster-theme
+omarchy theme install https://github.com/steve-lohmeyer/omarchy-roadster-light-theme
 ```
 Or paste the URL in the Omarchy menu under Install → Style → Theme.
 
