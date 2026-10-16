@@ -15,7 +15,6 @@ Omarchy theme celebrating the new Tesla Roadster — aerospace-inspired, light, 
 omarchy theme install https://github.com/steve-lohmeyer/omarchy-roadster-theme
 Or paste the URL in the Omarchy menu under Install → Style → Theme.
 ```
-```
 
 ## Credits
 
