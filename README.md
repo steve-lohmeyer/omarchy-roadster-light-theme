@@ -11,7 +11,7 @@ Omarchy theme celebrating the new Tesla Roadster — aerospace-inspired, light, 
 
 # Screenshot
 
-<img width="5120" height="2880" alt="Omarchy Roadster Theme Preview" src="https://github.com/steve-lohmeyer/omarchy-roadster-theme/blob/master/preview.jpg" />:> [!WARNING]
+<img width="5120" height="2880" alt="Omarchy Roadster Theme Preview" src="https://github.com/steve-lohmeyer/omarchy-roadster-theme/blob/master/preview.png" />:> [!WARNING]
 > 
 
 ## Installation
