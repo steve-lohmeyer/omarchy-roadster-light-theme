@@ -11,9 +11,10 @@ Omarchy theme celebrating the new Tesla Roadster — aerospace-inspired, light, 
 
 # Screenshots
 
-<img width="5120" height="2880" alt="Omarchy Roadster Theme Background" src="https://github.com/steve-lohmeyer/omarchy-roadster-theme/blob/master/backgrounds/01-pilot-and-roadster.jpg" />
 
 <img width="5120" height="2880" alt="Omarchy Roadster Theme Preview" src="https://github.com/steve-lohmeyer/omarchy-roadster-theme/blob/master/preview.png" />
+<img width="5120" height="2880" alt="Omarchy Roadster Theme Background - Driver approaching car" src="https://github.com/steve-lohmeyer/omarchy-roadster-theme/blob/master/backgrounds/01-pilot-and-roadster.jpg" />
+<img width="5120" height="2880" alt="Omarchy Roadster Theme Background - Roadster driving on stylized space rings" src="https://github.com/steve-lohmeyer/omarchy-roadster-theme/blob/master/backgrounds/06-roadster-rings.jpg" />
 
 
 ## Installation
